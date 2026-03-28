@@ -1,19 +1,23 @@
 <div align="center">
 
-# 👨‍💻 Jamal Junior
-**`Estudante de Desenvolvimento de Sistemas`**
+# Jamal Junior
+**`Desenvolvedor em Formação | Foco em Web Development`**
+
+---
+
+> *"A tecnologia é a ferramenta. A determinação é o que constrói o futuro."*
 
 ---
 
 <div>[EN-US]</div>
 
-What's Up! My name is **Jamal Junior**, I'm **17 years old** and I'm from **São Paulo**. I'm currently studying Systems Development at **SENAI**. I've been passionate about technology since I was a kid, and I plan to build projects that help a lot of people in the future!
+Hey! I'm **Jamal Junior**, 17 years old, from **São Paulo, Brazil**. I'm currently pursuing a technical degree in **Systems Development at SENAI**, with a strong focus on **Web Development**. I'm driven by the challenge of turning ideas into real, impactful solutions — and I'm just getting started.
 
 <br>
 
 <div>[PT-BR]</div>
 
-Oie! Me chamo **Jamal Junior**, tenho **17 anos** e sou de **São Paulo**. Atualmente estou cursando Desenvolvimento de Sistemas no **SENAI**. Sou apaixonado por tecnologia desde pequeno e planejo criar projetos que ajudem muitas pessoas no futuro!
+Olá! Sou **Jamal Junior**, 17 anos, de **São Paulo, Brasil**. Atualmente cursando técnico em **Desenvolvimento de Sistemas no SENAI**, com foco em **Desenvolvimento Web**. Sou movido pelo desafio de transformar ideias em soluções reais e impactantes — e isso é só o começo.
 
 ---
 
@@ -28,13 +32,13 @@ Oie! Me chamo **Jamal Junior**, tenho **17 anos** e sou de **São Paulo**. Atual
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,react" />
 
 ---
 
-### 🐍 Contribuições
+### 📈 Atividade no GitHub
 
 ![Snake animation](https://raw.githubusercontent.com/JAMAL-RED/JAMAL-RED/output/github-contribution-grid-snake-dark.svg)
 
