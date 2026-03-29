@@ -25,7 +25,7 @@
 
 - 🔭 Estudando atualmente: **React.js & C#**
 - 🌱 Aprendendo: **Design de APIs REST**
-- 💡 Objetivo: **Minha primeira vaga em TI em 2025**
+- 💡 Objetivo: **Minha primeira vaga em TI**
 - 📫 Contato: [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/592833739915264000) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jamalred_/)
 
 ---
@@ -50,10 +50,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JAMAL-RED&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMAL-RED&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JAMAL-RED&theme=dark&hide_border=true&date_format=j%2Fn%5BY%5D)
 
@@ -67,7 +63,7 @@
 
 ---
 
-## 🎯 Metas para 2025
+##  Metas para 2025
 
 - ✅ Dominar HTML, CSS e JavaScript
 - ✅ Aprender React.js
@@ -88,5 +84,5 @@
 ---
 
 <div align="center">
-  <i>✨ Feito com ❤️ por Jamal Junior · São Paulo, Brasil</i>
+  <i> Jamal Junior · São Paulo, Brasil</i>
 </div>
