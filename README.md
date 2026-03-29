@@ -63,7 +63,7 @@
 
 ---
 
-##  Metas para 2025
+##  Metas para 2026
 
 - ✅ Dominar HTML, CSS e JavaScript
 - ✅ Aprender React.js
